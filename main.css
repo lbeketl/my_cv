@@ -58,7 +58,7 @@
     /* background-image: var(--main-bg-grad); */
     display: flex;
     flex-direction: column;
-    box-shadow: rgba(106, 220, 254, 0.35) 0px 0px 15px;
+    box-shadow:var(--main-box-shadow);
     padding: 90px 0 15px 15px;
 }
 
