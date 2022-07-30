@@ -65,9 +65,9 @@
 .main-react-icon {
     display: block;
     position: absolute;
-    right: 5px;
-    width: 130px;
-    height: 130px;
+    right: 15px;
+    width: 100px;
+    height: 100px;
 }
 
 .photo-img {
@@ -270,6 +270,7 @@
 .background-desc {
     display: flex;
     color: var(--main-text-color);
+    padding: 0 !important;
 }
 
 .background-desc > img {
